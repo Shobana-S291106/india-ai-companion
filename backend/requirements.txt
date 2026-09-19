@@ -3,3 +3,5 @@ uvicorn
 python-multipart
 openai
 httpx
+python-dotenv
+google-genai
